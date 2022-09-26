@@ -18,7 +18,7 @@ export default function Nav() {
       <div className="flex-1"></div>
 
       <Dropdown
-        contentClassName="relative top-12 right-1/2"
+        contentClassName="relative top-12 right-4 sm:right-10 lg:right-14 xl:right-[7.5rem]"
         groupedOptions={[
           {
             options: [
